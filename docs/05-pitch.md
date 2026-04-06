@@ -1,29 +1,21 @@
 # Pitch (3 minutos)
-
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
  
 ## Roteiro Sugerido
 
 ### 1. O Problema (30 seg)
 > Qual dor do cliente você resolve?
+Ajuda com as finanças pessoais, dando ao cliente previsibilidade de gastos, e planejamento para seus objetivos futuros
 
-[Sua descrição aqui]
 
 ### 2. A Solução (1 min)
 > Como seu agente resolve esse problema?
-
-[Sua descrição aqui]
-
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
-
-[Descreva o que será mostrado]
+Ele usa base de conhecimento que o cliente inputa, e o ajuda traçando objetivos com suas finanças.
+>  
 
 ### 4. Diferencial e Impacto (30 seg)
 > Por que essa solução é inovadora e qual é o impacto dela na sociedade?
 
-[Sua descrição aqui]
+Pensando na microeconomia, cliente que tem seus gastos controlados, conseguem pegar mais credito, planejar novos gastos e manter uma saúde financeira e mental.
 
 ---
 
